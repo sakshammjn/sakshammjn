@@ -20,9 +20,6 @@
 <a href="https://twitter.com/sakshammjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshammjn" height="30" width="40" /></a>
 <a href="https://discord.gg/saksham.mjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saksham.mjn" height="30" width="40" /></a>
 <a href="https://instagram.com/saksham.mjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saksham.mjn" height="30" width="40" /></a>
-
-
-
 <a href="https://medium.com/@saksham.mjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saksham.mjn" height="30" width="40" /></a>
 </p>
 
