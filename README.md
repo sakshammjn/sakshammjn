@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Mahajan</h1>
 <h3 align="center">Proactive Web Developer | Cybersecurity Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 - 🌱 I’m currently learning **Web Development & Data Structures**
 
