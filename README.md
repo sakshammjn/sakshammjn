@@ -1,8 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Saksham Mahajan</h1>
-<h3 align="center">Proactive Web Developer | Cybersecurity Enthusiast</h3>
-# 💫 About Me:
-🔭 I’m currently working on myself<br>🌱 I’m currently learning I’m currently learning Web Development & Data Structures<br>⚡ Fun fact, it will all make sense
+<h1 align="center">🚀 Welcome to My GitHub!</h1>
+<h3 align="center">Hi there! I'm Saksham, a passionate web developer, cybersecurity enthusiast, and data science learner. I love building projects, exploring new technologies, and sharing what I learn.</h3>
+💫 About Me:<be>
+<br>
+🎓 CS Student exploring Java, Python, Web Development, and Cybersecurity <br>
+🏆 NPTEL Topper (Top 5%) and always hungry for knowledge <br>
+🛡️ Bug bounty enthusiast – I love finding vulnerabilities and securing systems <br>
+🎸 Guitar beginner, trying to strum my way through 🎶 <br>
 
 
 ## 🌐 Socials:
