@@ -23,3 +23,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+[![Saksham Mahajan profile views](https://u8views.com/api/v1/github/profiles/84372129/views/day-week-month-total-count.svg)](https://u8views.com/github/sakshammjn)
+
