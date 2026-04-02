@@ -21,8 +21,6 @@
 
 ## 📊 Contributions
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sakshammjn&show_icons=true&theme=radical)
-
 ![Streak](https://streak-stats.demolab.com/?user=sakshammjn&theme=radical)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshammjn&theme=github-dark&area=true)
