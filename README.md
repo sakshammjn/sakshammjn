@@ -25,6 +25,4 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=sakshammjn&theme=radical)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshammjn&theme=react-dark)
-
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshammjn&theme=github-dark&area=true)
