@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)]()
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
 <h3 align="center">Hi, I'm Saksham — I build for the web, contribute to open source. Currently going deep on GSoC 2026.</h3>
 💫 ABOUT ME:<be>
